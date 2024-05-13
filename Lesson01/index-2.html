@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiển thị hình ảnh</title>
+</head>
+<body>
+    <h1>Hiển thị hình ảnh</h1>
+    <pre>
+        Sử dụng thẻ img 
+        - Thuộc tính: src; alt 
+           < img src= "url" alt="Văn bản thay thế" />
+           + URL: đường đẫn đến file ảnh; \
+                    đường dẫn tuyệt / đường dẫn tương đối 
+                ++: url tuyệt đối:
+                    [giao thức]://[domain]/[path]
+                    Ví dụ:
+                        https://devmaster.edu.vn/images/logo.png 
+                ++: url tương đối
+                    +++: vào trong thư mục: folder/ 
+                    +++: ra ngoài một thư mục: ../ 
+    </pre>
+    <h2>Sử dụng đường dẫn tuyệt đối</h2>
+    <img src="https://devmaster.edu.vn/images/logo.png" 
+            alt="Devmaster Academy">
+    <hr>
+    <h2>Sử dụng đường dẫn tương đối</h2>
+    <img src="images/logo.png" alt="Devmaster Academy">
+    <br>
+    <img src="../target.jpg" alt="Mục tiêu" style="width: 8rem;">
+</body>
+</html>
