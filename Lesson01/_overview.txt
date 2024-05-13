@@ -1,0 +1,48 @@
+#FullStack
+
+Phần 1: FrontEnd + ReactJs
+#FrontEnd: (10b) 
+	==> Nội dung
+	- HTML5: (2b-3b)
+		+ Các thẻ cơ bản / thẻ tiêu đề / ...
+		+ Table 
+		+ Form
+		+ Thẻ phân chia bố cục nội dung
+	- CSS3: (2b-3b)
+		+ Ngôn ngữ định kiểu 
+		+ Nhúng css -> html
+		+ CSS3 nâng cao
+	- Javacsript: (3b-4b)
+		+ Khái niệm về ngôn ngữ lập trình
+		+ I/O
+		+ Các cấu trúc điều khiển
+		+ Mảng 
+		+ Hàm
+		+ Object
+		+ DOM
+	- JQuery: (1b)
+	- Bootstrap: (1b) 
+	- Tool (psd) (1b)
+		*.psd => *.html 
+	==> Mock Project:
+		- 5page -> 10page
+		- Hoàn thành trong khoảng 2 tuần
+	==> Tài nguyên:
+		Driver
+		+ Sildesa
+		+ Labguides
+		+ Books
+		+ Tham khảo thêm
+	==> Công cụ:
+		+ Visual Code  2019 / Sublime Text / Intelij 
+		+ Lưu trữ mã nguồn thực hành (buổi / bài lab) => gitHub => Classroom
+		+ Classroom (Tài khoảng gmail và đặt tên đúng định danh)
+	==> Ghi chú: 
+		+ Thời gian học trực tiếp (TT)
+		+ Thời gian luyện tập: = (TT*4)
+		+ Mock Project: Nên dành ít nhất 4h/ngày
+		=> Sau đánh giá => Deployed -> Devmaster
+		
+==>>>>>>>>>>>>
+		
+	
